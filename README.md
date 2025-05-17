@@ -2,14 +2,16 @@
 
 This bot uses AI to translate text between languages using OpenAI's API.
 
-![gif](https://drive.google.com/uc?export=view&id=1F5ZBdHUc_HVTOqGM4X-sVWiuQCT0g21E)
+![gif](https://drive.google.com/uc?export=view&id=1LaLIUBow4QOcFlLbYIc00x6oyvYY0lPV)
 
 ## Setup
 
 1. Clone the repo.
 2. Install dependencies
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 3. Create `.env` file with your Telegram and OpenAI tokens
 
@@ -20,7 +22,9 @@ OPENAI_API_KEY=your_openai_api_key
 
 4. Run the bot
 
-```python -m bot.main```
+```
+python -m bot.main
+```
 
 ## Project structure
 
