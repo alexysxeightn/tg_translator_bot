@@ -1,0 +1,4 @@
+aiogram
+langchain-openai
+openai
+python-dotenv
