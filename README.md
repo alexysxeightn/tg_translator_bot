@@ -2,7 +2,7 @@
 
 This bot uses AI to translate text between languages using OpenAI's API.
 
-![gif](https://drive.google.com/uc?export=view&id=1LaLIUBow4QOcFlLbYIc00x6oyvYY0lPV)
+![gif](https://drive.google.com/uc?export=view&id=1anlhQG-80pHvH_iXAEbvqOufglL3zvcM)
 
 ## Setup
 
